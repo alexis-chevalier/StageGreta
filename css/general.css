@@ -1,0 +1,35 @@
+form, h1{
+	text-align: center;
+}
+
+#fond-blanc{
+	margin-right:30px;
+	margin-left:30px;
+	background-color: white;
+}
+
+#marge-rose{
+	background-color: #F0D2EC !important;
+}
+
+a, h1, p {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+	margin-top: 0px;
+	padding-top: 10px;
+	text-align: center;
+}
+
+form{
+	margin-bottom:0px;
+}
+
+input{
+	margin-bottom: 10px;
+}
+
+#pdf{
+    text-align: center;
+}
